@@ -44,3 +44,6 @@ Conduct data analysis to identify trends and insights using sales data to answer
 - Dimension Table: DIM_products, DIM_store, and DIM_date.
 - Finalized the data visualization by creating relationship between my tables in Power BI and incorporating DAX to get calculated measures for my dashboard/report.
 
+# Dashboard: #
+![Dashboard Overview](https://user-images.githubusercontent.com/28738970/233511744-eb250534-1e67-40ca-b9cd-f37291ddea70.png)
+
