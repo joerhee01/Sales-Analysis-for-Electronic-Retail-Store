@@ -8,7 +8,7 @@
 - Cole Nussbaumer Knaflic's book, *Storytelling with Data*, to reference best practices for data visualization. 
 
 # Summary: #
-Analyze sales data to find patterns and insights that can help answer business questions for an electronic retail store that operates across the United States.
+The objective of this project is to analyze sales data for an electronic retail store operating in the United States. By identifying patterns and insights, I aim to answer important business questions related to performance, customer behavior, and market trends. The findings will inform decisions regarding product offerings, pricing, promotions, and marketing strategies to drive growth and success for the business.
 
 # Business Questions: #
 - Q1. What was the best month for sales? How much was earned that month?
