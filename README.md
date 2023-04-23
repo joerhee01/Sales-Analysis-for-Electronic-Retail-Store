@@ -50,19 +50,25 @@ The objective of this project is to analyze sales data for an electronic retail 
 - *Q1. What was the best month for sales? How much was earned that month?*
 
 - The highest sales of over $4.61 million were achieved in December. 
-
+  
+  (*Total Sales by Months*)
+  
   ![image](https://user-images.githubusercontent.com/28738970/233818625-3157fdaa-3a02-458a-af63-0c5408c674a7.png)
 
 - *Q2. What city had the highest number of sales?*
 
 - The city with the highest sales was San Francisco, which amounted to $8.25 million. The second highest was Los Angeles at $5.45 million, followed by New York City at $4.66 million.
-
+   
+  (*Store Location Matrix*)
+  
   ![image](https://user-images.githubusercontent.com/28738970/233818638-c88d950b-6e91-4239-b805-66e48341e543.png)
 
 - *Q3. What time should we display advertisements to maximize likelihood of customer's buying product?*
 
 - According to the chart, the peak sales time occurred at 11:58 AM, with 281 products sold, followed by 1:25 PM with 271 products sold, 8:13 PM with 269 products sold, 11:26 AM with 268 products sold, and 6:36 PM with 262 products sold. Based on this trend, advertising between 11:00 AM to 2:00 PM midday and 6:30 PM to 9:30 PM would be most effective, as sales start to decrease steadily after this time frame.
-
+  
+  (*Total Product Sold Distributed by Time of the Day*)
+  
   ![image](https://user-images.githubusercontent.com/28738970/233818666-ddc1c2ea-c22d-42d4-9049-ab26ff0a1d97.png)
 
 
@@ -70,11 +76,20 @@ The objective of this project is to analyze sales data for an electronic retail 
 
 - The data shows that the USB-C Charging cable was the product that customers most frequently purchased together, with 2208 sales, followed closely by the iPhone with 2018 sales, and wired headphones with 1856 sales. The lightning charging cable, Google phone, and Apple Airpods were also popular purchases. These insights suggest that customers prefer to buy devices along with accessories and power cables. To maximize sales, it would be wise to market these items together with promotions or place them in close proximity to each other.
 
+  (*Count of Products That Were Purchased Together*)
+  
   ![image](https://user-images.githubusercontent.com/28738970/233818680-3d3bb1fb-ea3b-48fe-be3b-4e44869f0e2b.png)
 
 - *Q5. What product sold the most? Why do you think it sold the most?* 
 
 - According to the chart, the top-selling products are AAA Batteries (4-pack), AA Batteries, USB-C Charging Cable, and Lightning Charger. This trend may be attributed to the importance of power-related products for electronic devices. It is noteworthy that the top-selling products are also the cheapest per unit. However, the top-earning products are the MacBook Pro Laptop, iPhone, ThinkPad Laptop, and Google Phone, with little influence from products in the top-selling list. To maximize sales and earnings, it would be wise to balance prices and offer promotions for the top-earning products to increase the likelihood of increasing sales and maximize profits.
 
+  (*Top Selling Products by Unit Price of the Product*)
+  
   ![image](https://user-images.githubusercontent.com/28738970/233818441-9a6fb556-cf80-47b8-b55f-70390b1186ae.png)
+  
+  (*Top Earning Products vs Top Selling Products*)
+  
   ![image](https://user-images.githubusercontent.com/28738970/233818475-ecd8188a-467e-4ab4-a1ac-b2cbd9bc411b.png)
+
+
