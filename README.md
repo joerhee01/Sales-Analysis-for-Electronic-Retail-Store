@@ -44,37 +44,37 @@ The objective of this project is to analyze sales data for an electronic retail 
 - To finalize the data visualization, I created relationships between the tables in Power BI and incorporated DAX to generate calculated measures for my dashboard/report.
 
 # Dashboard: #
-![image](https://user-images.githubusercontent.com/28738970/233813266-42d95f89-1d3b-41d6-959a-47e1f6e743eb.png)
+![image](https://user-images.githubusercontent.com/28738970/233818285-0767aff0-7278-4b49-98d5-da6aed5db299.png)
 
 # My Analysis: #
 - *Q1. What was the best month for sales? How much was earned that month?*
 
 - The highest sales of over $4.61 million were achieved in December. 
 
-  ![image](https://user-images.githubusercontent.com/28738970/233812139-5b5f38c0-faa0-406e-8a52-d4395dbc39f9.png)
+  ![image](https://user-images.githubusercontent.com/28738970/233818331-cb5808fd-8e10-4eb8-85ce-a0b03b308104.png)
 
 - *Q2. What city had the highest number of sales?*
 
 - The city with the highest sales was San Francisco, which amounted to $8.25 million. The second highest was Los Angeles at $5.45 million, followed by New York City at $4.66 million.
 
-  ![image](https://user-images.githubusercontent.com/28738970/233812241-dd42be7d-cc0e-4602-9e30-d6573120fb45.png)
+  ![image](https://user-images.githubusercontent.com/28738970/233818348-640dfa22-644f-483a-8038-efec04edaf34.png)
 
 - *Q3. What time should we display advertisements to maximize likelihood of customer's buying product?*
 
 - According to the chart, the peak sales time occurred at 11:58 AM, with 281 products sold, followed by 1:25 PM with 271 products sold, 8:13 PM with 269 products sold, 11:26 AM with 268 products sold, and 6:36 PM with 262 products sold. Based on this trend, advertising between 11:00 AM to 2:00 PM midday and 6:30 PM to 9:30 PM would be most effective, as sales start to decrease steadily after this time frame.
 
-  ![image](https://user-images.githubusercontent.com/28738970/233812431-e4c1dde6-6d37-40f4-9eda-c45547b2b96a.png)
+  ![image](https://user-images.githubusercontent.com/28738970/233818371-e1ed4caf-6fa9-4c1d-b833-960d0e0dfc1a.png)
 
 
 - *Q4. What products are often sold together?*
 
 - The data shows that the USB-C Charging cable was the product that customers most frequently purchased together, with 2208 sales, followed closely by the iPhone with 2018 sales, and wired headphones with 1856 sales. The lightning charging cable, Google phone, and Apple Airpods were also popular purchases. These insights suggest that customers prefer to buy devices along with accessories and power cables. To maximize sales, it would be wise to market these items together with promotions or place them in close proximity to each other.
 
-  ![image](https://user-images.githubusercontent.com/28738970/233812619-5a58e247-2903-46cc-9feb-07975ccb00a9.png)
+  ![image](https://user-images.githubusercontent.com/28738970/233818392-c4353314-77d1-4bab-bc03-df248e57758a.png)
 
 - *Q5. What product sold the most? Why do you think it sold the most?* 
 
 - According to the chart, the top-selling products are AAA Batteries (4-pack), AA Batteries, USB-C Charging Cable, and Lightning Charger. This trend may be attributed to the importance of power-related products for electronic devices. It is noteworthy that the top-selling products are also the cheapest per unit. However, the top-earning products are the MacBook Pro Laptop, iPhone, ThinkPad Laptop, and Google Phone, with little influence from products in the top-selling list. To maximize sales and earnings, it would be wise to balance prices and offer promotions for the top-earning products to increase the likelihood of increasing sales and maximize profits.
 
-  ![image](https://user-images.githubusercontent.com/28738970/233812803-0a386869-ffc9-4bfd-aa2e-ce5764b689ea.png)
-  ![image](https://user-images.githubusercontent.com/28738970/233812816-c2ff3051-d5d8-45b9-ba46-72409ca3225e.png)
+  ![image](https://user-images.githubusercontent.com/28738970/233818441-9a6fb556-cf80-47b8-b55f-70390b1186ae.png)
+  ![image](https://user-images.githubusercontent.com/28738970/233818475-ecd8188a-467e-4ab4-a1ac-b2cbd9bc411b.png)
