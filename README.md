@@ -44,33 +44,33 @@ The objective of this project is to analyze sales data for an electronic retail 
 - To finalize the data visualization, I created relationships between the tables in Power BI and incorporated DAX to generate calculated measures for my dashboard/report.
 
 # Dashboard: #
-![image](https://user-images.githubusercontent.com/28738970/233818285-0767aff0-7278-4b49-98d5-da6aed5db299.png)
+![image](https://user-images.githubusercontent.com/28738970/233818600-5277aaec-291e-45fa-bb9f-e3c0ca5e8e79.png)
 
 # My Analysis: #
 - *Q1. What was the best month for sales? How much was earned that month?*
 
 - The highest sales of over $4.61 million were achieved in December. 
 
-  ![image](https://user-images.githubusercontent.com/28738970/233818331-cb5808fd-8e10-4eb8-85ce-a0b03b308104.png)
+  ![image](https://user-images.githubusercontent.com/28738970/233818625-3157fdaa-3a02-458a-af63-0c5408c674a7.png)
 
 - *Q2. What city had the highest number of sales?*
 
 - The city with the highest sales was San Francisco, which amounted to $8.25 million. The second highest was Los Angeles at $5.45 million, followed by New York City at $4.66 million.
 
-  ![image](https://user-images.githubusercontent.com/28738970/233818348-640dfa22-644f-483a-8038-efec04edaf34.png)
+  ![image](https://user-images.githubusercontent.com/28738970/233818638-c88d950b-6e91-4239-b805-66e48341e543.png)
 
 - *Q3. What time should we display advertisements to maximize likelihood of customer's buying product?*
 
 - According to the chart, the peak sales time occurred at 11:58 AM, with 281 products sold, followed by 1:25 PM with 271 products sold, 8:13 PM with 269 products sold, 11:26 AM with 268 products sold, and 6:36 PM with 262 products sold. Based on this trend, advertising between 11:00 AM to 2:00 PM midday and 6:30 PM to 9:30 PM would be most effective, as sales start to decrease steadily after this time frame.
 
-  ![image](https://user-images.githubusercontent.com/28738970/233818371-e1ed4caf-6fa9-4c1d-b833-960d0e0dfc1a.png)
+  ![image](https://user-images.githubusercontent.com/28738970/233818666-ddc1c2ea-c22d-42d4-9049-ab26ff0a1d97.png)
 
 
 - *Q4. What products are often sold together?*
 
 - The data shows that the USB-C Charging cable was the product that customers most frequently purchased together, with 2208 sales, followed closely by the iPhone with 2018 sales, and wired headphones with 1856 sales. The lightning charging cable, Google phone, and Apple Airpods were also popular purchases. These insights suggest that customers prefer to buy devices along with accessories and power cables. To maximize sales, it would be wise to market these items together with promotions or place them in close proximity to each other.
 
-  ![image](https://user-images.githubusercontent.com/28738970/233818392-c4353314-77d1-4bab-bc03-df248e57758a.png)
+  ![image](https://user-images.githubusercontent.com/28738970/233818680-3d3bb1fb-ea3b-48fe-be3b-4e44869f0e2b.png)
 
 - *Q5. What product sold the most? Why do you think it sold the most?* 
 
