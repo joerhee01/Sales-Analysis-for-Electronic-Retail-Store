@@ -44,7 +44,7 @@ The objective of this project is to analyze sales data for an electronic retail 
 - To finalize the data visualization, I created relationships between the tables in Power BI and incorporated DAX to generate calculated measures for my dashboard/report.
 
 # Dashboard: #
-![Dashboard Overview](https://user-images.githubusercontent.com/28738970/233511744-eb250534-1e67-40ca-b9cd-f37291ddea70.png)
+![image](https://user-images.githubusercontent.com/28738970/233813266-42d95f89-1d3b-41d6-959a-47e1f6e743eb.png)
 
 # My Analysis: #
 - *Q1. What was the best month for sales? How much was earned that month?*
